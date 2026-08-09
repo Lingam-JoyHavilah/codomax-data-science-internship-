@@ -1,0 +1,16 @@
+Employee_ID,Name,Age,Salary,Department
+101,Sachin Tendulkar,50,120000.0,Management
+102,Virat Kohli,36,95000.0,Marketing
+103,MS Dhoni,44,102428.57142857143,Operations
+104,Rohit Sharma,38,90000.0,Sales
+105,Jasprit Bumrah,31,85000.0,IT
+106,Rahul Dravid,45,100000.0,Training
+107,Kapil Dev,66,110000.0,Management
+108,Sir Don Bradman,40,130000.0,Research
+109,Ricky Ponting,50,102428.57142857143,HR
+110,Shane Warne,52,95000.0,Finance
+111,Brian Lara,55,98000.0,Operations
+112,Sir Viv Richards,73,125000.0,Management
+113,Ben Stokes,34,87000.0,Unknown
+114,Kane Williamson,35,91000.0,IT
+115,Babar Azam,31,88000.0,Marketing
